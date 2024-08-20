@@ -6,5 +6,6 @@
         "source.fixAll": "never",
         "source.organizeImports": "explicit"
       }
-    }
+    },
+    "localaipilot.standalone.ollamaModel": "codellama:latest"
   }
